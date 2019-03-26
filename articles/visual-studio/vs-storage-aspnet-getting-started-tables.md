@@ -50,7 +50,7 @@ This tutorial shows how to write ASP.NET code for some common scenarios using Az
 1. Add the following *using* directives to the `TablesController.cs` file:
 
     ```csharp
-	using Microsoft.Azure;
+    using Microsoft.WindowsAzure;
     using Microsoft.WindowsAzure.Storage;
     using Microsoft.WindowsAzure.Storage.Auth;
     using Microsoft.WindowsAzure.Storage.Table;
